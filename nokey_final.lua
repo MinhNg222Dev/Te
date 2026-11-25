@@ -145,5 +145,5 @@ hookHTTP()
 g.NK = NK
 g.NoKey = NK
 
-local obfSource = game:HttpGet("YOUR_RAW_URL_HERE")
+local obfSource = game:HttpGet("https://raw.githubusercontent.com/MinhNg222Dev/3636363636363366/refs/heads/main/dump.lua%20(1).txt")
 NK.exec(obfSource)
